@@ -1,0 +1,11 @@
+# Core detection framework
+ultralytics>=8.0.0          # YOLOv8 — includes torch dependency
+
+# Computer vision
+opencv-python>=4.8.0        # video capture, drawing, display
+
+# Numerical & data
+numpy>=1.24.0               # array ops used by YOLO and OpenCV
+
+# Visualization & report
+matplotlib>=3.7.0           # charts for the evaluation report

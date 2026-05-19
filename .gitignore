@@ -1,0 +1,10 @@
+@"
+venv/
+.env/
+out/
+*.class
+*.log
+__pycache__/
+.idea/
+.vscode/
+"@ > .gitignore
